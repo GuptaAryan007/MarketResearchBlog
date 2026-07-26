@@ -1,6 +1,11 @@
-# MarketResearchBlog
-Market Research Blog examining the ideas of Day Trading and Converting them into Institutional Trade Strategy Development
-Includes 2 trading bot algorithms that employ institutional trading algorithms for the purpose of assessing market volatility and trading aglorithms through the use of Order Flow Imbalances, Market Rebalancing Zones, Delta Divergences and Institutional trading algorithms to assess Nasdaq-100 (NQ) Futures markets earnings volatility.
-Holds research paper regarding impacts on earnings announcemenets on the share prices of Fortune 500 companies and assess market volatility within respective periods for such companies.
-3-statements Discounted Cash Flow Model with 5 year historicals for Amazon (AMZN) present alongside 3-page thesis regarding implied market sentiment regarding the company alongside presumed share price downside.
-First Blog Post Coming Soon Regarding the Correlation between Trading Markets and Institutional trading algorithms employed by hedge funds!
+# Market Research Blog: Day Trading Microstructure to Institutional Algorithmic Strategy
+
+This repository integrates 3 core pillars of quantitative capital markets research: **Fundamental Valuation**, **Event-Driven Volatility**, and **Order Flow Microstructure Execution**.
+
+## 📌 Featured Research & Models
+* 📊 **[Amazon 5-Year DCF Valuation Note](./Amazon_Valuation_Note.md)** | Multi-case FCFF model evaluating AMZN intrinsic value ($177.71 target).
+* 📈 **[Post-Earnings Volatility Study](./Earnings_Volatility_Study.md)** | Empirical analysis of post-earnings announcement drift (PEAD) across 124 Fortune 500 equities.
+* 🤖 **[Pine Script Execution Engines](./v17_Native_Speed_Engine.pine)** | Algorithmic trading strategies utilizing Order Flow Imbalance (OFI) and Market Rebalancing Zones on NQ Futures.
+
+---
+*Created by Aryan Gupta | UT Austin Finance & Mathematics*
