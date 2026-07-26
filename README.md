@@ -8,4 +8,4 @@ This repository integrates 3 core pillars of quantitative capital markets resear
 * 🤖 **[Pine Script Execution Engines](./v17_Native_Speed_Engine.pine)** | Algorithmic trading strategies utilizing Order Flow Imbalance (OFI) and Market Rebalancing Zones on NQ Futures.
 
 ---
-*Created by Aryan Gupta | UT Austin Finance & Mathematics*
+*Created by Aryan Gupta | UT Austin Finance
